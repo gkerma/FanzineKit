@@ -1,1 +1,1 @@
-Drop-in style plugins live here.
+Drop-in style plugins.

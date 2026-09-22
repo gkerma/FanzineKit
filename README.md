@@ -1,3 +1,3 @@
-# FanzineKit V6
+# FanzineKit Forge Final
 
-Editorial Language & Forge.
+Open-source editorial forge.
