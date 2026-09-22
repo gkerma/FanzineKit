@@ -1,1 +1,1 @@
-Respect contributors.
+Respect, attribution, collaboration et bienveillance.

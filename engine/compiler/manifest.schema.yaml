@@ -1,3 +1,5 @@
 title: string
 style: string
-pages: int
+pages: integer
+poster: boolean
+stickers: integer

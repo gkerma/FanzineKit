@@ -1,2 +1,4 @@
-# v6.0.0-forge
-Initial public forge.
+## v6.0.0
+- Forge complète
+- Samples
+- Styles versionnés

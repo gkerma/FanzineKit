@@ -1,2 +1,3 @@
 #!/bin/sh
-echo FanzineKit
+echo "FanzineKit Forge v6"
+echo "Usage: fanzine build manifests/issue_demo.yaml"

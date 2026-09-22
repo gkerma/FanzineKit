@@ -1,1 +1,8 @@
-# Nouveau Fanzine
+---
+name: Nouveau Fanzine
+---
+## Sujet
+
+## Style
+
+## Pages

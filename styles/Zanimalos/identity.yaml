@@ -1,1 +1,5 @@
 name: Zanimalos
+layout: A4
+grid: 3
+paper: textured
+palette: default

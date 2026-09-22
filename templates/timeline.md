@@ -1,4 +1,4 @@
-# Sticker Template
+# Timeline Template
 
 - Titre
 - Chapô

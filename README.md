@@ -1,3 +1,9 @@
-# FanzineKit Forge Final
+# FanzineKit Forge v6
 
-Open-source editorial forge.
+Framework éditorial open-source piloté par YAML.
+
+## Pipeline
+Manifest -> Storyboard -> Prompts -> Images -> PDF
+
+## Styles
+Core, Histoire, Cyber, Science, Zanimalos.
